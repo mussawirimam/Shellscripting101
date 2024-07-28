@@ -1,2 +1,6 @@
 # Shellscripting101
-I am creating this for my self-learning
+**To display the history without the numbers**
+```
+$ history | cut -c 8-
+```
+
